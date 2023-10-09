@@ -19,6 +19,8 @@ Data used in this project provided by the Institution is confidential and propri
 - gridExtra_2.3
 - kableExtra_1.3.4
 - hrbrthemes_0.8.0
+- gt_0.9.0
+- webshot_0.5.4
   
 
 ## Guideline for this repository
